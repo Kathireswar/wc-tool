@@ -1,4 +1,4 @@
-# CCWC - Count Characters, Words, and Lines
+# The Challenge - Building wc
 
 
 #output
